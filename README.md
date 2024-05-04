@@ -1,6 +1,6 @@
-# Vite + React + Tailwind
+# Vite + React + Tailwind (JavaScript)
 
-## It's an template for CodeSandbox platform.
+## Starter template.
 
 * Vite: Module Bundler
 * React: JS UI Library
@@ -11,3 +11,4 @@
 * Prettier: Code Formatter
 * Prettier TailwindCSS Plugin: Sorts Utility Classes Automatically
 * Tailwind Debug Screens: Shows Current Active Screen
+* Import alias: Neat and clean imports, e.g. @/components/Navbar.jsx
